@@ -4,13 +4,14 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
 O dataset analisado contém mais de 8000 registros, incluindo variáveis como idade, estado civil, profissão, experiência profissional, gastos e tamanho da família.
 
-**Objetivos**
-Compreender a estrutura e qualidade dos dados.
-Identificar inconsistências, valores faltantes e outliers.
-Aplicar técnicas de limpeza e tratamento de dados.
-Extrair padrões e insights relevantes para segmentação.
-Apoiar decisões baseadas em dados.
-Etapas da Análise
+**Objetivos:**
+- Compreender a estrutura e qualidade dos dados.
+- Identificar inconsistências, valores faltantes e outliers.
+- Aplicar técnicas de limpeza e tratamento de dados.
+- Extrair padrões e insights relevantes para segmentação.
+- Apoiar decisões baseadas em dados.
+
+## Etapas da Análise:
 ### 1. Análise de Qualidade dos Dados
 * Identificação de valores faltantes por variável.
 * Classificação do mecanismo de ausência (MAR – Missing At Random).
